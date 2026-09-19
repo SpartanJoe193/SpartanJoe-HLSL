@@ -1,4 +1,4 @@
-# WARNING: this repository has been updated, the wording of this tutorial is patially outdated, PLEASE REPORT AND ALL ISSUES THAT ARISE FROM FOLLOWING THIS
+# WARNING: this repository is now obsolete, and the wording of this tutorial maybe incorrect, PLEASE REPORT AND ALL ISSUES THAT ARISE FROM FOLLOWING THIS
 
 ## Intro
 If you use other hlsl mods make sure to modify both this set and the other for compatibility. Either way drop the fx files in "...\H3EK\source\rasterizer\hlsl".
